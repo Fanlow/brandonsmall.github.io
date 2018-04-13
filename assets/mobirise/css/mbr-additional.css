@@ -885,10 +885,9 @@ body {
 }
 .cid-qOYsLrW7PS .media-container-row .mbr-text {
   text-align: center;
-  color: #000000;
 }
 .cid-qOYsLrW7PS .media-container-row .mbr-text B {
-  color: #333333;
+  color: #000000;
 }
 .cid-qOYdek8Fh5 {
   padding-top: 15px;
@@ -1335,7 +1334,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qP6h0e7BWl {
-  background-image: url("../../../assets/images/background7.jpg");
+  background-image: url("../../../assets/images/kyrie-irving-home1-2000x1476.jpg");
 }
 .cid-qP6h0e7BWl .slider-text-two {
   background: rgba(255, 255, 255, 0.8) none repeat scroll 0 0;
@@ -1362,6 +1361,17 @@ body {
     outline: 15px solid rgba(255, 255, 255, 0.8);
     border: 1px solid rgba(0, 0, 0, 0.2);
   }
+}
+.cid-qP6sVIkCFp {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qP6sVIkCFp .media-container-row .mbr-text {
+  text-align: center;
+}
+.cid-qP6sVIkCFp .media-container-row .mbr-text B {
+  color: #000000;
 }
 #custom-html-1d {
   /* Type valid CSS here */
@@ -1641,46 +1651,91 @@ body {
 .cid-qOYmCGR43O .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-qOYnrn02GI {
+.cid-qP6tBVjOWn {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-qOYnrn02GI .mbr-iconfont {
-  font-size: 34px;
-  transition: color .3s;
+.cid-qP6tBVjOWn a:link {
+  text-decoration: none;
 }
-.cid-qOYnrn02GI .mbr-section-title {
+.cid-qP6tBVjOWn .icon-transition span {
+  padding: 0.1rem 0.9rem;
+  border-radius: 50%;
+  color: #ffffff;
+  display: block;
+  height: 3em;
+  line-height: 3em;
+  width: 3em;
+  background: #444444 none repeat scroll 0 0;
+  -webkit-transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s;
+  font-size: 14px;
+}
+.cid-qP6tBVjOWn .icon-transition span:hover {
+  background-color: #ffbc00;
+}
+.cid-qP6tBVjOWn .social-media ul {
   margin: 0;
+  padding: 0;
+  margin-bottom: 8px;
 }
-.cid-qOYnrn02GI .underline {
-  margin-top: -0.5rem;
-  margin-bottom: -0.5rem;
-}
-.cid-qOYnrn02GI .underline .line {
-  width: 3rem;
-  height: 2px;
-  background: #444444;
+.cid-qP6tBVjOWn .social-media ul li {
+  padding: 4px;
   display: inline-block;
 }
-.cid-qOYnrn02GI .card-img {
-  text-align: left;
+.cid-qP6tBVjOWn .foot-menu {
+  flex-direction: row;
+  margin: 0;
+  margin-bottom: 8px;
+  padding: .6em 0;
 }
-.cid-qOYnrn02GI .row-item {
-  padding-bottom: 2rem;
+.cid-qP6tBVjOWn .foot-menu > li {
+  font-size: 14px;
+  padding: 0;
+  display: inline-block;
 }
-.cid-qOYnrn02GI .row-item:hover .card-img .mbr-iconfont {
-  color: #ffbc00 !important;
+.cid-qP6tBVjOWn .foot-menu > li .rhombus {
+  width: 0;
+  height: 0;
+  right: 4px;
+  border: 4px solid transparent;
+  border-bottom-color: #444444;
+  position: relative;
+  top: -19px;
+}
+.cid-qP6tBVjOWn .foot-menu > li .rhombus::after {
+  width: 0;
+  height: 0;
+  content: '';
+  position: absolute;
+  left: -4px;
+  top: 4px;
+  border: 4px solid transparent;
+  border-top-color: #444444;
+}
+.cid-qP6tBVjOWn .foot-menu li a {
+  font-family: 'OpenSans', sans-serif;
+  display: inline-block;
+  letter-spacing: 2px;
+  padding: 0 10px;
+}
+.cid-qP6tBVjOWn .plan-title,
+.cid-qP6tBVjOWn .text-letter {
+  -webkit-transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s;
+  font-weight: 600;
+}
+.cid-qP6tBVjOWn .plan-title {
+  color: #444444;
 }
 @media (max-width: 767px) {
-  .cid-qOYnrn02GI .card-img,
-  .cid-qOYnrn02GI .mbr-text,
-  .cid-qOYnrn02GI .mbr-card-title,
-  .cid-qOYnrn02GI .mbr-section-subtitle,
-  .cid-qOYnrn02GI .mbr-section-title,
-  .cid-qOYnrn02GI .underline {
-    text-align: center !important;
+  .cid-qP6tBVjOWn .foot-menu {
+    padding: 15px 1rem;
   }
+}
+.cid-qP6tBVjOWn .mbr-section-title span {
+  color: #ffbc00;
 }
 .cid-qP2YqcslKt {
   background-image: url("../../../assets/images/mrtdfwmarshallridge656507dschd4-1600x1200.jpg");
