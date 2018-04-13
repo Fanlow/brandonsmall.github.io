@@ -2816,7 +2816,7 @@ body {
 }
 .cid-qP7U0vdJFI .nav-link:hover,
 .cid-qP7U0vdJFI .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #efefef !important;
 }
 .cid-qP7VlFcEOB {
   padding-top: 75px;
@@ -2913,12 +2913,11 @@ body {
 .cid-qP8gJ3tNpp .navbar {
   min-height: 77px;
   transition: all .3s;
-  background: #efefef;
-  background: none;
+  background: #232323;
 }
 .cid-qP8gJ3tNpp .navbar.opened {
   transition: all .3s;
-  background: #efefef !important;
+  background: #232323 !important;
 }
 .cid-qP8gJ3tNpp .navbar .dropdown-item {
   transition: all .3s;
@@ -3046,7 +3045,7 @@ body {
   }
 }
 .cid-qP8gJ3tNpp .navbar.navbar-short {
-  background: #efefef !important;
+  background: #232323 !important;
   min-height: 60px;
 }
 .cid-qP8gJ3tNpp .navbar.navbar-short .navbar-logo img {
@@ -3085,7 +3084,7 @@ body {
   padding: 0.667em 1.667em;
 }
 .cid-qP8gJ3tNpp .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #efefef;
+  background: #232323;
 }
 .cid-qP8gJ3tNpp .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: -2px 0 0 0;
@@ -3180,7 +3179,7 @@ body {
 }
 .cid-qP8gJ3tNpp .nav-link:hover,
 .cid-qP8gJ3tNpp .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #efefef !important;
 }
 .cid-qP8gRBcogN {
   background-image: url("../../../assets/images/dfw-heritagepark-huntley-ext-dusk-web-1600x1200.jpg");
@@ -3262,12 +3261,11 @@ body {
 .cid-qP8gRDa4gz .navbar {
   min-height: 77px;
   transition: all .3s;
-  background: #efefef;
-  background: none;
+  background: #232323;
 }
 .cid-qP8gRDa4gz .navbar.opened {
   transition: all .3s;
-  background: #efefef !important;
+  background: #232323 !important;
 }
 .cid-qP8gRDa4gz .navbar .dropdown-item {
   transition: all .3s;
@@ -3395,7 +3393,7 @@ body {
   }
 }
 .cid-qP8gRDa4gz .navbar.navbar-short {
-  background: #efefef !important;
+  background: #232323 !important;
   min-height: 60px;
 }
 .cid-qP8gRDa4gz .navbar.navbar-short .navbar-logo img {
@@ -3434,7 +3432,7 @@ body {
   padding: 0.667em 1.667em;
 }
 .cid-qP8gRDa4gz .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #efefef;
+  background: #232323;
 }
 .cid-qP8gRDa4gz .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: -2px 0 0 0;
@@ -3529,7 +3527,7 @@ body {
 }
 .cid-qP8gRDa4gz .nav-link:hover,
 .cid-qP8gRDa4gz .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #efefef !important;
 }
 .cid-qP8gRDP8Gi {
   padding-top: 75px;
