@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i);
 
 
 
@@ -43,13 +44,13 @@ body {
 }
 .display-5 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 1.92rem;
 }
 .display-7 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -77,9 +78,9 @@ body {
     line-height: calc( 1.4 * (0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.96rem;
+    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -671,7 +672,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -968,12 +969,12 @@ body {
 .cid-qOYbjavJ2L .navbar {
   min-height: 77px;
   transition: all .3s;
-  background: #232323;
+  background: #efefef;
   background: none;
 }
 .cid-qOYbjavJ2L .navbar.opened {
   transition: all .3s;
-  background: #232323 !important;
+  background: #efefef !important;
 }
 .cid-qOYbjavJ2L .navbar .dropdown-item {
   transition: all .3s;
@@ -1101,7 +1102,7 @@ body {
   }
 }
 .cid-qOYbjavJ2L .navbar.navbar-short {
-  background: #232323 !important;
+  background: #efefef !important;
   min-height: 60px;
 }
 .cid-qOYbjavJ2L .navbar.navbar-short .navbar-logo img {
@@ -1140,7 +1141,7 @@ body {
   padding: 0.667em 1.667em;
 }
 .cid-qOYbjavJ2L .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #232323;
+  background: #efefef;
 }
 .cid-qOYbjavJ2L .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: -2px 0 0 0;
@@ -1170,7 +1171,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #cd1212;
+  background-color: #232323;
 }
 .cid-qOYbjavJ2L button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1235,7 +1236,7 @@ body {
 }
 .cid-qOYbjavJ2L .nav-link:hover,
 .cid-qOYbjavJ2L .dropdown-item:hover {
-  color: #efefef !important;
+  color: #c1c1c1 !important;
 }
 .cid-qP7WzRLBCl {
   padding-top: 60px;
